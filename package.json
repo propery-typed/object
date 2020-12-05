@@ -1,6 +1,6 @@
 {
   "name": "@properly-typed/object",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strict types for object utilities",
   "main": "dist/index.js",
   "scripts": {
